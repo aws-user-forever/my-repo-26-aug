@@ -15,7 +15,7 @@ pipeline {
                  script{
                         dir("terraform")
                         {
-                            git "https://github.com/aws-user-forever/terraform-jenkins-ec2-demo-repo.git"
+                            git "https://github.com/aws-user-forever/my-repo-26-aug.git"
                         }
                     }
                 }
